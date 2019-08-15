@@ -1,2 +1,2 @@
 # Agincourt
-A scalable intelligence collection tool written in golang
+A scalable information monitoring tool written in golang
